@@ -1,0 +1,12 @@
+com.example.flutter_base.app-jetified-annotation-experimental-1.1.0-0 C:\Users\smartin\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_base.app-jetified-window-1.0.0-beta04-1 C:\Users\smartin\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_base.app-jetified-window-java-1.0.0-beta04-2 C:\Users\smartin\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_base.app-core-1.6.0-3 C:\Users\smartin\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.example.flutter_base.app-pngs-4 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\build\app\generated\res\pngs\release
+com.example.flutter_base.app-resValues-5 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\build\app\generated\res\resValues\release
+com.example.flutter_base.app-rs-6 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\build\app\generated\res\rs\release
+com.example.flutter_base.app-mergeReleaseResources-7 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.flutter_base.app-mergeReleaseResources-8 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.flutter_base.app-merged_res-9 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\build\app\intermediates\merged_res\release
+com.example.flutter_base.app-main-10 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\src\main\res
+com.example.flutter_base.app-release-11 C:\Users\smartin\Desktop\Flutter\flutter_base\android\app\src\release\res
