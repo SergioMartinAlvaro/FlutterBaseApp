@@ -1,0 +1,22 @@
+name: flutter_base
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '^3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  appcenter: ^0.2.1
+  appcenter_analytics: ^0.2.1
+  appcenter_crashes: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
